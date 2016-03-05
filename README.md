@@ -18,4 +18,4 @@ but rather to create bots that would outsmart other players.
 
 **This project got carried over in my new C++ PROJECT**
 
-[Release](http://tkc-community.net/forum/index.php/topic,15224.0.html#forum)
+[Forum thread](http://tkc-community.net/forum/index.php/topic,15224.0.html#forum)
