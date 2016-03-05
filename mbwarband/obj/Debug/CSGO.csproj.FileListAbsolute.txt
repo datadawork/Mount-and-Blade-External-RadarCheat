@@ -1,0 +1,9 @@
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\bin\Debug\Test_0.5.exe.config
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\bin\Debug\Test_0.5.exe
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\bin\Debug\Test_0.5.pdb
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\obj\Debug\CSGO.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\obj\Debug\DayZ_Private.Form1.resources
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\obj\Debug\DayZ_Private.Properties.Resources.resources
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\obj\Debug\CSGO.csproj.GenerateResource.Cache
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\obj\Debug\Test_0.5.exe
+C:\Users\Frank\Desktop\CSGO External by Teddi\DayZ Private\obj\Debug\Test_0.5.pdb
