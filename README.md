@@ -8,7 +8,7 @@ Going with C# for gamehacking comes with its complications. For one the .net fra
 library [MemorySharp](http://binarysharp.com/products/memorysharp/) in order to be able to read the games memory. I may plan to release my own
 library for game hacking in C# but I make no promises as of now. C# also doesn't allow pointers since it is well... managed. You can
 imagine how difficult it can be to retrieve some pointers if the language you are coding in doesn't support memory allocation. you can 
-try circumvent this by using the [Unsafe](https://msdn.microsoft.com/nl-be/library/chfa2zb8.aspx) keyword something I wasn't aware of at the time.
+try circumvent this by using the [unsafe](https://msdn.microsoft.com/nl-be/library/chfa2zb8.aspx) keyword something I wasn't aware of at the time.
 
 The current trend of today 5-3-2016 is to go front-end C# and back-end C++ combining both external and internal
 ways of hacking so learning all this greatly improved my knowledge in memory manipulation. 
