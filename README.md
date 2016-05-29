@@ -17,5 +17,3 @@ DISCLAIMER: this is made purely for an educational purpose. My desire never was 
 but rather to create bots that would outsmart other players.
 
 **This project got carried over in my new C++ PROJECT**
-
-[Forum thread](http://tkc-community.net/forum/index.php/topic,15224.0.html#forum)
